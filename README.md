@@ -42,7 +42,7 @@ Tom Marvolo Riddle| Male| Wizard| Power-obsessed dark wizard a.k.a `You-Know-Who
 _There's more to me than just this page. Did you read the Harry Potter book series? If not yet, you just proved that you are a muggle of the top order!_
 
 ---
-([^]: It's not too late! I urge you to read the book series or watch the movies made on the book series. Personally, I recommend reading the books, it lets you weave your personal imagination of the world of wizardry and magic. I hope you find the experience enjoyable!)
+([^1] : It's not too late! I urge you to read the book series or watch the movies made on the book series. Personally, I recommend reading the books, it lets you weave your personal imagination of the world of wizardry and magic. I hope you find the experience enjoyable!)
 
 
 
