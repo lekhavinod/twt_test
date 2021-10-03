@@ -1,6 +1,6 @@
 ---
 title: Harry Potter
-<!---layout: demo_template
+<!---layout: demo_template--->
 author: J K Rowling
 person: Harry Potter
 country: United Kingdom
