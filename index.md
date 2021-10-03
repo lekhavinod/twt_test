@@ -31,7 +31,7 @@ My immediate family are the Dursleys, but let's not go there. They hardly qualif
 
 Name | Gender | Profession| Relation|
 ---|---|---|---|
-J.K.Rowling|Female|Writer| A muggle who created my character (why did she have to be a muggle!)|
+{{page.author}}|Female|Writer| A muggle who created my character (why did she have to be a muggle!)|
 James Potter|Male|Wizard|Father|
 Lily Potter|Female|Witch|Mother|
 Ron Weasly| Male|Wizard| Friend|
