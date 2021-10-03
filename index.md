@@ -1,8 +1,13 @@
-Harry Potter
+---
+author: J K Rowling
+person: Harry Potter
+country: United Kingdom
+---
+
 
 # Who am I?
 
-I am Harry Potter. I live with my aunt, uncle, and cousin brother at Little Whingings, Surrey.
+I am {{page.person}}. I live with my aunt, uncle, and cousin brother at Little Whingings, Surrey, in {{page.country}}. My character was created by teh renowed auther {{page.author}}.
 
 ## My occupation ##
 I am a wizard living in the ordinary world of non-magical people known as muggles. I graduated from the renowned wizarding academy in Scotland named *Hogwarts School of Witchcraft and Wizardry*.
@@ -42,6 +47,7 @@ _There's more to me than just this page. Did you read the Harry Potter book seri
 
 ---
 ([^1] : It's not too late! I urge you to read the book series or watch the movies made on the book series. Personally, I recommend reading the books, it lets you weave your personal imagination of the world of wizardry and magic. I hope you find the experience enjoyable!)
+
 
 
 
