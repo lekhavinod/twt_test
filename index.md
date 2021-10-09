@@ -10,7 +10,8 @@ title: wizard
 {%include lorem.txt%}
 
 {% for anything in site.data.employee %}
-{{anything.ID}}: {{anything.Name}}
+- {{anything.ID}}: {{anything.Name}}
+- 
 {% end for %}
 
 # Who am I?
