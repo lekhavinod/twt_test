@@ -55,8 +55,8 @@ _There's more to me than just this page. Did you read the Harry Potter book seri
 ([^1] : It's not too late! I urge you to read the book series or watch the movies made on the book series. Personally, I recommend reading the books, it lets you weave your personal imagination of the world of wizardry and magic. I hope you find the experience enjoyable!)
 
 
-{% for item in site.data.employee %}
+{% for data in site.data.employee %}
 
-{{item.ID}} : {{item.Name}}
+{{data.ID}} : {{data.Name}}
 
 {% end for %}
