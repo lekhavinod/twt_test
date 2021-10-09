@@ -9,9 +9,9 @@ title: wizard
 ---
 {%include lorem.txt%}
 
-{%for entry in site.data.employee%}
-- {{anything.ID}}:{{anything.Name}}
-{%end for%}
+{% for anything in site.data.employee %}
+{{anything.ID}}: {{anything.Name}}
+{% end for %}
 
 # Who am I?
 
