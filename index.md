@@ -12,6 +12,8 @@ title: wizard
 ---
 {% for anything in site.data.employee %}
 
+- {{anything.ID}}, {{anything.Name}
+
 {% end for %}
 ---
 
