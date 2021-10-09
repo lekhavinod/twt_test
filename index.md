@@ -7,7 +7,7 @@ person: Harry Potter
 country: United Kingdom
 title: wizard
 ---
-
+{%include lorem.txt%}
 
 # Who am I?
 
